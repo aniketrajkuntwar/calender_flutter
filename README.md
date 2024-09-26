@@ -12,7 +12,7 @@ Getting Started
 
 
 Installation
-Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+Clone the repository: git clone [https://github.com/your-username/your-repo-name.git](https://github.com/aniketrajkuntwar/calender_flutter)
 Open the project in your preferred IDE (e.g., Android Studio, Visual Studio Code)
 Run flutter pub get to install the required dependencies
 Run flutter run to launch the app on an emulator or physical device
