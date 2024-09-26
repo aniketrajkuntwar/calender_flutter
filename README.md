@@ -1,17 +1,9 @@
-# calender
+# Flutter Calendar with To-Do List App
 
-A new Flutter project.
+Overview
+This Flutter app combines a custom calendar with a to-do list feature, allowing users to manage their schedules and tasks efficiently. The app uses the intl package for date formatting and the cloud_firestore package to interact with the Firebase Firestore database.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# calender_flutter" 
+Features
+Custom calendar view with navigation through different months and years
+To-do list feature with task creation, editing, and deletion
+Task display for each day on the calendar
